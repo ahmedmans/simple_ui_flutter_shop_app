@@ -1,6 +1,8 @@
 # shop_app
 
-A new Flutter project.
+Note: This user interface design is not owned by me, but it is similar to a design available on education channels on YouTube and on other educational sites, and I do not know the original owner
+As for the code, it is an initial code for the purpose of testing only, not for real use.
+Thanks.
 
 ## Getting Started
 
